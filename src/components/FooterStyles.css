@@ -1,0 +1,43 @@
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+}
+.left{
+padding: 20px 20px;
+}
+.left .p{
+ margin-top: 10px;   
+}
+.left h4{
+ margin-top: 10px;   
+}
+.flex{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+
+}
+.right{
+    padding: 30px;
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+.right h4{
+    margin-bottom: 10px;
+}
+.right p{
+    font-size: 15px;
+}
+.middle{
+    padding: 20px 20px;
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+}
+.middle h3{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
