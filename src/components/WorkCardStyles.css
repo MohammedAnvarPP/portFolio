@@ -17,7 +17,8 @@
 }
 .project-card img{
     border-radius: 10px;
-    width: 100%;
+    width: 70%;
+    height: 150px;
     transition: transform .2s;
 }
 .project-card img:hover{
@@ -31,7 +32,7 @@
 }
 .pro-details p{
     padding-bottom: 1rem;
-    font-size: 1.1rem;
+    /* font-size: 13px; */
     text-align: justify;
 }
 .pro-btns{

@@ -12,6 +12,7 @@ const Work = () => {
             <div className='project-container'>
               {
                 WorkCardData.map((val,ind)=>{
+                    console.log(val.view,"val");
                     return(
                         <WorkCard
                         key={ind}

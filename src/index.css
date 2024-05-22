@@ -17,7 +17,7 @@ h1,h2,h3,h4,h6,h5,p,a{
     padding: 12px 32px;
     font-size: 1rem;
     text-transform: uppercase;
-    background: yellow;
+    background: rgb(248, 248, 80);
     color: black;
     border: 1px solid #fff;
     font-weight: 600;
